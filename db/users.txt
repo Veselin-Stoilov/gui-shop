@@ -9,3 +9,4 @@
 {"username": "Veso", "password": "123", "firstName": "Veselin", "lastName": "Stoilov"}
 {"username": "Veso100", "password": "9281", "firstName": "hahah", "lastName": "ahha"}
 {"username": "Ves", "password": "9281", "firstName": "Veselin", "lastName": "Stoilov"}
+{"username": "ab", "password": "12345", "firstName": "a", "lastName": "b"}

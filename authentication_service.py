@@ -2,9 +2,7 @@ import json
 
 import os
 
-DB_FOLDER_NAME = 'db'
-USERS_FILE_NAME = 'users.txt'
-SESSION_FILE_NAME = 'session.txt'
+from global_constants import *
 
 
 def register(username, password, firs_name, last_name):

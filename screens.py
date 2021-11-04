@@ -2,6 +2,7 @@ import tkinter as tk
 
 from authentication_service import register, login
 from products_service import get_all_products
+from products_image_generator import show_image
 
 
 def clear_window(window: tk.Tk):
@@ -107,7 +108,9 @@ def render_products_screen(window: tk.Tk):
             row_index = index * 4
 
         tk.Label(window, text=product['name']).grid(row=row_index, column=col_index)
-        tk.Label(window, text=product['image']).grid(row=row_index + 1, column=col_index)
+
+        show_image(product).grid(row=row_index + 1, column=col_index)
+
         tk.Label(window, text=product['count']).grid(row=row_index + 2, column=col_index)
 
         tk.Button(
