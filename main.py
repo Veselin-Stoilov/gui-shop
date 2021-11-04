@@ -11,8 +11,7 @@ if __name__ == '__main__':
         'firstName': 'Veselin',
         'lastName': 'Stoilov',
     }
-    print(json.dumps(obj))
-    print(type(json.loads((json.dumps(obj)))))
+
     window = tk.Tk()
     window.geometry("800x600")
     window.title('GUI Shop')

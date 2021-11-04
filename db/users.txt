@@ -5,3 +5,7 @@
 {"username": "hkhkh", "password": "khji9hy", "firstName": "IHI", "lastName": "lihihi"}
 {"username": "aa", "password": "jghkg", "firstName": "khk", "lastName": "ihlh"}
 {"username": "aaa", "password": "jhj", "firstName": "kjhkj", "lastName": "kj"}
+{"username": "ves", "password": "123", "firstName": "iui", "lastName": "oio"}
+{"username": "Veso", "password": "123", "firstName": "Veselin", "lastName": "Stoilov"}
+{"username": "Veso100", "password": "9281", "firstName": "hahah", "lastName": "ahha"}
+{"username": "Ves", "password": "9281", "firstName": "Veselin", "lastName": "Stoilov"}
